@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentpelete",
+        "uuid": 4142600,
+        "checksum": "g87tpo"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
